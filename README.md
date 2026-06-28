@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Ekhlas Uddin
 
-<!--
-**ekhlas-dev/ekhlas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack MERN Developer from Bangladesh
 
-Here are some ideas to get you started:
+I enjoy building modern, responsive, and scalable web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+- Docker
+
+## 📫 Contact
+
+Email: ekhlas.cse.eng.dev@gmail.com
+
+> Always learning. Always building.
