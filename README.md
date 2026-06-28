@@ -13,7 +13,7 @@ I love building modern, responsive, and scalable web applications using the MERN
 - 🌱 Currently learning **Next.js & TypeScript**
 - 🔭 Working on personal full-stack projects
 - 🎯 Goal: Land my first remote developer job
-- 📫 Email: **ekhlas.cse.eng.dev@gmail.com**
+- 📫 Email: **ekhlas.cse.eng@gmail.com**
 
 ---
 
